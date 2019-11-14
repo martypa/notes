@@ -26,3 +26,18 @@
 - Was sind die Herausforderungen für Unreal-Engine?
 - Warum wurde der Geschichte soviel Platz gegeben?
 - Haben Sie Erfahrungen mit den alternativen Technologien?
+
+## Material Design
+
+### Feedback
+
+- Arbeit war spannend und gut geschrieben
+- Abgegebener code war zu wenig => mehr schreiben 
+- 
+
+
+### Fragen
+
+- Warum war in der Arbeit soviel vom Materialdesign gewidmet?
+- Wieviel vom Code wurde selber geschrieben und wieviel wurde übernommen?
+- 
