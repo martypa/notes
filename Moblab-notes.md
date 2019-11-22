@@ -33,11 +33,20 @@
 
 - Arbeit war spannend und gut geschrieben
 - Abgegebener code war zu wenig => mehr schreiben 
-- 
-
 
 ### Fragen
 
 - Warum war in der Arbeit soviel vom Materialdesign gewidmet?
 - Wieviel vom Code wurde selber geschrieben und wieviel wurde übernommen?
+
+## Xamarin.Forms
+
+### Feedback
+
+- Struktur war sehr gut => roter Faden vorhanden
+- Errorhandling in der App berücksichtigen
 - 
+
+
+### Fragen
+
