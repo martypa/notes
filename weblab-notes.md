@@ -26,7 +26,7 @@
 non-Primitives: zum Beispiel Objekte (können mehrere Werte beinhalten) 
 
 ### Übungsfragen II
-1. ""10
+1. 10
 2. -1
 3. 1
 4. 2
@@ -47,4 +47,3 @@ non-Primitives: zum Beispiel Objekte (können mehrere Werte beinhalten)
 8. true
 9. false
 10. true
-
